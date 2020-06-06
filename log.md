@@ -15,7 +15,7 @@
 **Today's Progress**: Added a timeline to tribute page. 
 
 **Thoughts:** (1) Producing multiple timline boxes has been an exercise in efficient coding. It is more efficient (and clearer) to create reusuable classes, than to create non-reusuable classes, which can multiply quicky when creating multiple repeating elements (such as those which appear throughout the physical progression of a timeline). 
-(2) It's interesting dealing with a language which doesn't have an explicit ```if``` statement. 
+(2) It's interesting dealing with a language which doesn't have an explicit ```if``` statement. (3) The ```article:nth-child``` selector is awesome. 
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
