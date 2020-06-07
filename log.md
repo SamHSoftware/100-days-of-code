@@ -19,5 +19,13 @@
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
+### Day 2: June 7, 2020
+
+**Today's Progress**: Worked on timeline. 
+
+**Thoughts:** Learnt the differnce between ```span``` and ```div``` elements. 
+
+**Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
+
 
 
