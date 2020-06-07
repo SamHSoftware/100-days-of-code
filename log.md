@@ -23,7 +23,7 @@
 
 **Today's Progress**: Worked on timeline. 
 
-**Thoughts:** Learnt the differnce between ```span``` and ```div``` elements. 
+**Thoughts:** (1) Learnt the differnce between ```span``` and ```div``` elements. (2) It's intersting how position is altered by ```position: absolute```.
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
