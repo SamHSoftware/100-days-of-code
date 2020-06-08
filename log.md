@@ -2,7 +2,7 @@
 
 ### Day 0: June 5, 2020
 
-**Today's Progress**: Worked on tribute page as HTML and CSS exercise. 
+**Today's Progress**: My first time using HTML and CSS. Worked on tribute page as HTML and CSS exercise. 
 
 **Thoughts:** I learnt the difference between the CSS box-sizing properties, namely ```box-sizing:content-box;``` and ```box-sizing:border-box;``` This is useful when padding padding text within a ```div``` element.  
 
@@ -15,7 +15,7 @@
 **Today's Progress**: Added a timeline to tribute page. 
 
 **Thoughts:** (1) Producing multiple timline boxes has been an exercise in efficient coding. It is more efficient (and clearer) to create reusuable classes, than to create non-reusuable classes, which can multiply quicky when creating multiple repeating elements (such as those which appear throughout the physical progression of a timeline). 
-(2) It's interesting dealing with a language which doesn't have an explicit ```if``` statement. (3) The ```article:nth-child``` selector is awesome. 
+(2) It's interesting dealing with a language which doesn't have an explicit ```if``` statement. (3) The ```:nth-child``` selector is awesome. 
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
@@ -27,5 +27,12 @@
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
+### Day 3: June 8, 2020
+
+**Today's Progress**: Read up on optimising repeating element layout. 
+
+**Thoughts:** (1) While ```:nth-child``` is great, I've learnt that it needs to be applied to non-child classes which are all of the same level. I didn't originally organise my code in this manner, and thus I may need to backtrack and redo some stuff. Good lesson to learn for future projects. 
+
+**Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
 
