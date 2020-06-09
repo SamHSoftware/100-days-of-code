@@ -31,7 +31,7 @@
 
 **Today's Progress**: Read up on optimising repeating element layout. 
 
-**Thoughts:** (1) While ```:nth-child``` is great, I've learnt that it needs to be applied to non-child classes which are all of the same level. I didn't originally organise my code in this manner, and thus I may need to backtrack and redo some stuff. Good lesson to learn for future projects. 
+**Thoughts:** (1) While ```:nth-child``` is great, I've learnt that it needs to be applied to non-child classes which are all of the same level. I didn't originally organise my code in this manner, and thus I may need to backtrack and redo some stuff. Good lesson to learn for future projects. In this instance, I have created some easily reusualble segments of code with a couple of extra CSS styles to compentsate for the lack of ```:nth-child``` style automation. The net efficinecy of the code is equvalent, I think. 
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
