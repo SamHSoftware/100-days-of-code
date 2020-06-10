@@ -45,7 +45,7 @@
 
 ### Day 6: June 10, 2020
 
-**Today's Progress**: Worked on timeline and expanded it. 
+**Today's Progress**: Finished timeline. Started adding poetry section.  
 
 **Thoughts:** (1) I've fixed part of yesterday's problem. I applied ```float:hidden``` to a div element, and I needed to add ```overflow:hidden``` to allowthe background colour to appear. (2) My log from day 3 has helped me solve a problem in seconds! This log is turning into an invaluable resource. 
 
