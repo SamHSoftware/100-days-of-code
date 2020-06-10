@@ -8,8 +8,6 @@
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
-# 100 Days Of Code - Log
-
 ### Day 2: June 6, 2020
 
 **Today's Progress**: Added a timeline to tribute page. 
