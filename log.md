@@ -49,4 +49,13 @@
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
+### Day 7: June 10, 2020
+
+**Today's Progress**: Learning how to make webpage responsive to changes in screen/window size. 
+
+**Thoughts:** (1) I've been using the ```grid-column``` property, however, I think I need to do some background reading to use it properly. (2) I've been implementing some of the Flexbox Layout module features, and learning how to use them. This is a really useful tool. 
+
+**Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
+
+
 
