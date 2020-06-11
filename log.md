@@ -49,7 +49,7 @@
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
-### Day 7: June 10, 2020
+### Day 7: June 11, 2020
 
 **Today's Progress**: Learning how to make webpage responsive to changes in screen/window size. 
 
