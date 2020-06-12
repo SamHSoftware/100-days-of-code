@@ -57,5 +57,12 @@
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
+### Day 8: June 12, 2020
+
+**Today's Progress**: Learning how to make webpage responsive to changes in screen/window size. 
+
+**Thoughts:** (1) Learnt about media queries, and their use in tailoring style sheets to different devices. (2) Webpage is now responsive to a range of different screen resolutions.
+
+**Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
 
