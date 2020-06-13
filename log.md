@@ -69,7 +69,7 @@
 
 **Today's Progress**: Learnt about CSS box model to greater degree. 
 
-**Thoughts:** (1) I set width of a class to 100%, and didn't realise that this would overrule any changes to the margins. Found the bug, fixed it, and now have a greater understanding of the CSS box model. 
+**Thoughts:** (1) I set width of a class to 100%, and didn't realise that this would overrule any changes to ```margin-right``` and ```margin-left```. Found the bug, fixed it, and now have a greater understanding of the CSS box model. 
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
