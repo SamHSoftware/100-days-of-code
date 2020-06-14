@@ -73,3 +73,11 @@
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
+### Day 10: June 14, 2020
+
+**Today's Progress**: Styling.
+
+**Thoughts:** (1) I'm learning about buttons, and styling anchor elements to appear and function in the same way as buttons. Useful stuff. 
+
+**Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
+
