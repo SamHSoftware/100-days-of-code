@@ -88,3 +88,11 @@
 **Thoughts:** (1) I've learnt to use ```calc()```, an incredibly powerful tool for the calculation of distances using different unit combinations. (2) I'm having trouble learning how to position a box outside of it's parent element, and with a position relative to that parent element. I'm missing a trick and will find it soon... Got it: Give the parent element ```position:relative``` and the child element ```position:absolute``` and ```left/right:100%```.
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
+
+### Day 12: June 16, 2020
+
+**Today's Progress**: Learning about child element positioning within containers.
+
+**Thoughts:** (1) ```calc()``` is  fantastic. (2) It's not straighforwad to make a ```div``` with width/height greater than that of it's parent. Nonetheless, problem solved. 
+
+**Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
