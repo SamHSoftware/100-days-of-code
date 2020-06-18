@@ -109,9 +109,12 @@
 
 **Today's Progress**: Create an addition section with links to additional information. 
 
-**Thoughts:** (1) I've learnt about using a ```<link>``` tag link to an external style sheet. This is particularly useful when considering. (2) Vertical align a child element by adding to following to it's parent:    
-    ```display: flex;``` --> Make the container a flex container. 
+**Thoughts:** (1) I've learnt about using a ```<link>``` tag link to an external style sheet. This is particularly useful when considering. (2) Vertical align a child element by adding to following to it's parent:   
+
+    ```display: flex;```  Make the container a flex container. 
+    
     ```align-items: center;``` --> Vertical alignment. 
+    
     ```justify-content: center;``` --> Horizontal alignment. 
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
