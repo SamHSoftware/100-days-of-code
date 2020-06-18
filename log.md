@@ -109,7 +109,7 @@
 
 **Today's Progress**: Create an addition section with links to additional information. 
 
-**Thoughts:** (1) I've learnt about using a ```<link>``` tag link to an external style sheet. Very useful for creating a links section to facebook or twitter pages etc.. (2) Vertical align a child element by adding to following to it's parent:   
+**Thoughts:** (1) I've learnt about using a ```<link>``` tag link to an external style sheet. Very useful for creating a links section to facebook or twitter pages etc.. (2) Vertically and horizontally align a child element by adding to following to it's parent:   
 
     ```display: flex;```  /*Make the container a flex container*/ 
     
