@@ -99,8 +99,16 @@
 
 ### Day 13: June 17, 2020
 
-**Today's Progress**: Ynderstand more about grid layouts in CSS. 
+**Today's Progress**: Understand more about grid layouts in CSS. 
 
 **Thoughts:** (1) Made a responsive photo gallery within the webpage. (2) When organising photos into a grid, using ```grid-template-rows``` and ```grid-template-columns```, it's best to make ```div``` containers within each section of the grid, as this allows for greater flexibility, especially when using ```Flexbox Layout``` to wrappers. 
+
+**Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
+
+### Day 14: June 18, 2020
+
+**Today's Progress**: Create an addition section with links to additional information. 
+
+**Thoughts:** (1) I've learnt about using a ```<link>``` tag link to an external style sheet. This is particularly useful when considering. 
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
