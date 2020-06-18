@@ -93,7 +93,7 @@
 
 **Today's Progress**: Learning about child element positioning within containers.
 
-**Thoughts:** (1) ```calc()``` is  fantastic. (2) It's not straighforwad to make a ```div``` with width/height greater than that of it's parent. Nonetheless, problem solved. (3) Vertically centering a ```div``` (with ```height``` specified in pixels) can be achieved with the following: ```top: calc(50% - (height of element in pixels/2)px;``` (NB: include spaces either side of the mathematical operator).
+**Thoughts:** (1) ```calc()``` is  fantastic. (2) It's not straighforwad to make a ```div``` with width/height greater than that of it's parent. Nonetheless, problem solved. (3) Vertically centering a ```div``` (with ```height``` specified in pixels) can be achieved with the following: ```top: calc(50% - (height of element in pixels/2)px);``` (NB: include spaces either side of the mathematical operator).
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
