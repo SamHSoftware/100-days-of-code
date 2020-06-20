@@ -125,6 +125,12 @@
 
 **Thoughts:** (1) I noticed that when the centering solution described above was applied to the wrapper, it resulted in an inability to allow child elements to reshuffle as normal ```inline-block``` elements. Instead, the solution lay in chaging the centering of the wrapper from that described above (still suitable when the child element does not need to be inline-block) to ```text-align: center;```.
 
+**Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
 
+### Day 16: June 20, 2020
+
+**Today's Progress**: Finished tribute page. 
+
+**Thoughts:** (1) Read about the use of a ```main``` element and included it. 
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
