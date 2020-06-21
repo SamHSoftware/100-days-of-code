@@ -134,3 +134,11 @@
 **Thoughts:** (1) Read about the use of a ```main``` element and included it. 
 
 **Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
+
+### Day 17: June 21, 2020
+
+**Today's Progress**: Started survey page. 
+
+**Thoughts:** (1) Need to read more about webkit. (2) Added header and began establishing page organisation. I'm happy with how much faster I've become. 
+
+**Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
