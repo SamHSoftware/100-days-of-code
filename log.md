@@ -145,7 +145,7 @@
 
 **Today's Progress**: Debugging. 
 
-**Thoughts:** (1) Came across the issue of collapsing margins. Solved problem by either adding ```overflow:auto```; to the ```section``` in question, or by adding... 
+**Thoughts:** (1) Came across the issue of collapsing margins. Solved problem by either adding ```overflow:auto;``` to the ```section``` in question, or by adding... 
 ```
   display: flex; 
   flex-direction: column;
