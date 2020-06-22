@@ -141,4 +141,15 @@
 
 **Thoughts:** (1) Need to read more about webkit. (2) Added header and began establishing page organisation. I'm happy with how much faster I've become. 
 
-**Link to work:** [Tribute page](https://github.com/SamHSoftware/HTML-and-HTML5/tree/master/Tribute%20page:%20William%20Earnest%20Henley)
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
+**Today's Progress**: Debugging. 
+
+**Thoughts:** (1) Came across the issue of collapsing margins. Solved problem by either adding ```overflow:auto```; to the ```section``` in question, or by adding... 
+```
+  display: flex; 
+  flex-direction: column;
+```
+  ... to the ```main``` element containing said ```section```. It should be noted that the latter works because there is no margin collapsing in flexbox.
+
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
