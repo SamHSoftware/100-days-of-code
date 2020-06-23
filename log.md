@@ -143,6 +143,8 @@
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
 
+### Day 18: June 22, 2020
+
 **Today's Progress**: Debugging. 
 
 **Thoughts:** (1) Came across the issue of collapsing margins. Solved problem by either adding ```overflow:auto;``` to the ```section``` in question, or by adding... 
@@ -151,5 +153,11 @@
   flex-direction: column;
 ```
   ... to the ```main``` element containing said ```section```. It should be noted that the latter works because there is no margin collapsing in flexbox. (2) Also, text wasn't overflowing to the next line upon webpage re-sizing. This was because the text container's ```width``` wasset to a fixed number of pixels. 
+  
+### Day 19: June 23, 2020
+
+**Today's Progress**: Added an addisional section to the survey form. 
+
+**Thoughts:** (1) Read more about the different iteration of webkit, and the alternatives in different browsers. This will need some familiarisation over time. 
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
