@@ -150,6 +150,6 @@
   display: flex; 
   flex-direction: column;
 ```
-  ... to the ```main``` element containing said ```section```. It should be noted that the latter works because there is no margin collapsing in flexbox.
+  ... to the ```main``` element containing said ```section```. It should be noted that the latter works because there is no margin collapsing in flexbox. (2) Also, text wasn't overflowing to the next line upon webpage re-sizing. This was because the text container's ```width``` wasset to a fixed number of pixels. 
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
