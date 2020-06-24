@@ -161,3 +161,11 @@
 **Thoughts:** (1) Read more about the different iteration of webkit, and the alternatives in different browsers. This will need some familiarisation over time. 
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
+### Day 20: June 24, 2020
+
+**Today's Progress**: Expanding form.
+
+**Thoughts:** (1) Adding buttons to survey form. At the moment, a good mechanism seems to be nesting a ```label``` element and a ```input``` element inside a ```div``` wrapper. (2) ```display: flex;``` should be used in the stead of ```display: -webkit-box;```, which is now outdated. (3) I'm learning how to modify the appearance and animations of radio buttons. 
+
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
