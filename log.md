@@ -185,7 +185,7 @@ div#container > p {
 }
 ```
 ```
-<div class="container">
+<div id="container">
     <p>First p element</p>
     <div>
         <p>Second p element</p> 
