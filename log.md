@@ -194,4 +194,11 @@ div#container > p {
 </div> 
 ```
 
+### Day 22: June 26, 2020
+
+**Today's Progress**: Reading about styling radio and checlist buttons. 
+
+**Thoughts:** (1) 
+
+
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
