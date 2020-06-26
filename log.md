@@ -180,6 +180,11 @@
 (4) The ```>``` sign is similar to the ``` ``` elements, but in contrast, it is only used to target the direct child elements of a specific parent. This means that in the following code, the second p element will not be affected, but all the others will!
 
 ```
+div#container > p {
+  color: red;
+}
+```
+```
 <div class="container">
     <p>First p element</p>
     <div>
