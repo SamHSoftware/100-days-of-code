@@ -169,3 +169,24 @@
 **Thoughts:** (1) Adding buttons to survey form. At the moment, a good mechanism seems to be nesting a ```label``` element and a ```input``` element inside a ```div``` wrapper. (2) ```display: flex;``` should be used in the stead of ```display: -webkit-box;```, which is now outdated. (3) I'm learning how to modify the appearance and animations of radio buttons. 
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
+### Day 21: June 25, 2020
+
+**Today's Progress**: Learning about symbol usage in CSS.
+
+**Thoughts:** (1) The ```+``` sign is an adjacent sigbling combinator. It applies to a secquence of elements within the same parent, and relies upn the fact that the second element (that following the ```+``` isgn) must come directly after the first element. The order is important! 
+(2) In contrast, the ```~``` symbol is a general sibling combinator, and combines elements but does not need them to be called in any particular order within the parent element. 
+(3) The ``` ``` (just a plain old space) sign, is often forgotten, but has a specific role too! It targets all children within it, even if they're nested within their own ```div``` elements (obviously, this can strongly depend on the style elements being defined). 
+(4) The ```>``` sign is similar to the ``` ``` elements, but in contrast, it is only used to target the direct child elements of a specific parent. This means that in the following code, the second p element will not be affected, but all the others will!
+
+```
+<div class="container">
+    <p>First p element</p>
+    <div>
+        <p>Second p element</p> 
+    </div> 
+    <p>Third p element</p>
+</div> 
+```
+
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
