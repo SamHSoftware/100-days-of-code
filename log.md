@@ -196,8 +196,17 @@ div#container > p {
 
 ### Day 22: June 26, 2020
 
-**Today's Progress**: Reading about styling radio and checlist buttons. 
+**Today's Progress**: Reading about styling radio and checklist buttons. 
 
 **Thoughts:** (1) Curious that radio buttons can't be styled. Instead, they must be removed, and replaced by a button designed by the user. So far, I have figured out how to remove them, and replace it with a new button. However, this button cannot yet be clicked, and I also need to create a new style when the button is clicked. I'm learning a lot of interesting methodology from this exercise. 
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
+### Day 22: June 26, 2020
+
+**Today's Progress**: Styling checklist buttons.
+
+**Thoughts:** (1) Can't seem to prompt an animation from the unchecked state to the checked state. Will need to continue working on this tomorow. 
+
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
