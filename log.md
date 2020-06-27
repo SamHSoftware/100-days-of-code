@@ -202,7 +202,7 @@ div#container > p {
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
 
-### Day 22: June 26, 2020
+### Day 23: June 27, 2020
 
 **Today's Progress**: Styling checklist buttons.
 
