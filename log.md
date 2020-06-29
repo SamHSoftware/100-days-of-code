@@ -210,3 +210,10 @@ div#container > p {
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
 
+### Day 24: June 28, 2020
+
+**Today's Progress**: Found bug.
+
+**Thoughts:** (1) The checkbox buttons were not 'checking' because I had nested the ```input``` element within a ```div``` element, not a ```label``` element. Problem now solved. (2) I need to double check that I am making my webpages  
+
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
