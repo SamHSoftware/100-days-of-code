@@ -217,3 +217,20 @@ div#container > p {
 **Thoughts:** (1) The checkbox buttons were not 'checking' because I had nested the ```input``` element within a ```div``` element, not a ```label``` element. Problem now solved. (2) I need to double check that I am making my webpages  
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
+### Day 25: June 29, 2020
+
+**Today's Progress**: Added a couple of new sections to my form.
+
+**Thoughts:** (1) Added new sections to my form. (2) Started making the page responsive to different screen resolutions. Encountered a bug in which input boxes are not resizing as expected. Looking for my mistake. 
+
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
+### Day 26: June 30, 2020
+
+**Today's Progress**: Responsive web design. 
+
+**Thoughts:** (1) Resonsive web design going well, and have fixed the bug in question; nothing important to note, just a matter of tracking fdown the responsible lines of code and fixing them. (2) Tomorrow I will go through an applied accessibility checklist to make sure my code is up to industry standards.  
+
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
