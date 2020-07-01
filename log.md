@@ -234,3 +234,10 @@ div#container > p {
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
 
+### Day 27: July 31, 2020
+
+**Today's Progress**: Buttons and animation.
+
+**Thoughts:** (1) Making buttons and animating them. LEarning to animate quickly is going to be uesful, and this has been good practice. 
+
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
