@@ -246,6 +246,6 @@ div#container > p {
 
 **Today's Progress**: Tweaking form to make sure it's up to standards.
 
-**Thoughts:** (1) Learnt to use the ```required``` atribute, to ensure that certain form fields are filled in. It only applies to ```input```, ```select``` and ```textarea``` elements though. I need to find out how to apply the same requirements on checkboxes and radio-buttons. 
+**Thoughts:** (1) Learnt to use the ```required``` atribute, to ensure that certain form fields are filled in. It only applies to ```input```, ```select``` and ```textarea``` elements though. I had trouble applying ```required``` to an ```option``` within a ```select```, but I realised this was becase I had not given a value to the first option. This first ```option``` was a placeholder, and thus I gave it ```value=""```. I need to find out how to apply the same requirements to checkboxes and radio-buttons. 
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
