@@ -234,10 +234,18 @@ div#container > p {
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
 
-### Day 27: July 31, 2020
+### Day 27: July 1, 2020
 
 **Today's Progress**: Buttons and animation.
 
 **Thoughts:** (1) Making buttons and animating them. LEarning to animate quickly is going to be uesful, and this has been good practice. 
+
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
+### Day 28: July 2, 2020
+
+**Today's Progress**: Tweaking form to make sure it's up to standards.
+
+**Thoughts:** (1) Learnt to use the ```required``` atribute, to ensure that certain form fields are filled in. It only applies to ```input```, ```select``` and ```textarea``` elements though. I need to find out how to apply the same requirements on checkboxes and radio-buttons. 
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
