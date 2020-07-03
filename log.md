@@ -249,3 +249,12 @@ div#container > p {
 **Thoughts:** (1) Learnt to use the ```required``` atribute, to ensure that certain form fields are filled in. It only applies to ```input```, ```select``` and ```textarea``` elements though. I had trouble applying ```required``` to an ```option``` within a ```select```, but I realised this was becase I had not given a value to the first option. This first ```option``` was a placeholder, and thus I gave it ```value=""```. I need to find out how to apply the same requirements to checkboxes and radio-buttons. 
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
+### Day 29: July 3, 2020
+
+**Today's Progress**: Applied accessibility training and application to form.
+
+**Thoughts:** (1) I can link an ```label``` to an ```input``` with ```for=""``` and ```id=""``` attributes respectively. (2) Question: can I nest an entire survey page in a ```form``` element, as I might do with a ```main``` element, or does each individual question-and-answer section need to be nested in an individual ```form``` element. I'm not sure it this makes a differnce to people who need screen readers. I need to read more on the subject. 
+
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
