@@ -262,6 +262,6 @@ div#container > p {
 
 **Today's Progress**: Completed the survey form!
 
-**Thoughts:** (1) Finished off the survey form! (2) I would like to learn how to make more intersiting buttons at some point soon. Loads of fun ideas already exist for study, and it would be a goof way to practice high-quality front-end develoment. 
+**Thoughts:** (1) Finished off the survey form! (2) I would like to learn how to make more intersiting buttons at some point soon. Loads of fun ideas already exist for study, and it would be a good way to practice high-quality front-end develoment. (3) I've started thinking about the product landing lage that I will make next. I've found a [good style that I would like to replicate](http://rhythm.bestlooker.pro/index-07.html).
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
