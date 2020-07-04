@@ -254,7 +254,7 @@ div#container > p {
 
 **Today's Progress**: Applied accessibility training and application to form.
 
-**Thoughts:** (1) I can link an ```label``` to an ```input``` with ```for=""``` and ```id=""``` attributes respectively. (2) Question: can I nest an entire survey page in a ```form``` element, as I might do with a ```main``` element, or does each individual question-and-answer section need to be nested in an individual ```form``` element. I'm not sure it this makes a differnce to people who need screen readers. I need to read more on the subject. 
+**Thoughts:** (1) I can link an ```label``` to an ```input``` with ```for=""``` and ```id=""``` attributes respectively. I have not found an equivalent for a drop down menu (2) Question: can I nest an entire survey page in a ```form``` element, as I might do with a ```main``` element, or does each individual question-and-answer section need to be nested in an individual ```form``` element. I'm not sure it this makes a differnce to people who need screen readers. I need to read more on the subject. 
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
 
