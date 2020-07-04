@@ -258,3 +258,10 @@ div#container > p {
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
 
+### Day 30: July 4, 2020
+
+**Today's Progress**: Completed the survey form!
+
+**Thoughts:** (1) Finished off the survey form! (2) I would like to learn how to make more intersiting buttons at some point soon. Loads of fun ideas already exist for study, and it would be a goof way to practice high-quality front-end develoment. 
+
+**Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
