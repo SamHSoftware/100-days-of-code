@@ -265,3 +265,11 @@ div#container > p {
 **Thoughts:** (1) Finished off the survey form! (2) I would like to learn how to make more intersiting buttons at some point soon. Loads of fun ideas already exist for study, and it would be a good way to practice high-quality front-end develoment. (3) I've started thinking about the product landing lage that I will make next. I've found a [good style that I would like to replicate](http://rhythm.bestlooker.pro/index-07.html).
 
 **Link to work:** [Survey form](https://codepen.io/SamHuguet/pen/MWKpVXp)
+
+### Day 31: July 5, 2020
+
+**Today's Progress**: Started a product landing page. 
+
+**Thoughts:** (1) It's good practicing the main structure of HTML5 documents. I suspect that he scaffold will change significantly depending on the type of webpage that I make. (2) Established a background picture to the webpage and figured out how to modify the darkness of said picture. (3) Added a few (unstyled) buttons. 
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
