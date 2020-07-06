@@ -273,3 +273,16 @@ div#container > p {
 **Thoughts:** (1) It's good practicing the main structure of HTML5 documents. I suspect that he scaffold will change significantly depending on the type of webpage that I make. (2) Established a background picture to the webpage and figured out how to modify the darkness of said picture. (3) Added a few (unstyled) buttons. 
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 32: July 6, 2020
+
+**Today's Progress**: Added buttons. 
+
+**Thoughts:** (1) When positioning, I realised that my method of centering vertically and horizontally doesn't always suit all purposes. For instace, if the entire parent container vertically and horizontally centers stuff (using ```flex```), it doesn't leave much room for varied positioning. Instead, this works quite well within the child element: 
+```
+position: absolute;
+top: 50%;
+left: 50%; 
+transform: translate(-50%, -50%);
+```
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
