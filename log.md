@@ -286,3 +286,11 @@ left: 50%;
 transform: translate(-50%, -50%);
 ```
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 33: July 7, 2020
+
+**Today's Progress**: Styled buttons and organised them in grid. 
+
+**Thoughts:** (1) Had some good practice creating and positioning elements within grid. (2) I need to get better at importing and manipulating fonts. 
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
