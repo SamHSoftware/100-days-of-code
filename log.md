@@ -294,3 +294,11 @@ transform: translate(-50%, -50%);
 **Thoughts:** (1) Had some good practice creating and positioning elements within grid. (2) I need to get better at importing and manipulating fonts. 
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 34: July 8, 2020
+
+**Today's Progress**: Menu
+
+**Thoughts:** (1) Added a menu. (2) It's good to think of ```display: flex;``` as a method for organising elements in 1D space, whereas ```display:grid``` is a method of organising elements into 2D space. 
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
