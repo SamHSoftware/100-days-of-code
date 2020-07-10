@@ -310,3 +310,11 @@ transform: translate(-50%, -50%);
 **Thoughts:** (1) I've been reading about use of ```text-transform:uppercase;```. It's useful ,and contrary to my suspicion, apparently does not *normally* impact the way in which a screen reader reads text. I say '*normally*' because screen readers can interprit all caps text as an acronym on occasion, which would obviously be fustrating. (2) I've been styling my page. 
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 36: July 10, 2020
+
+**Today's Progress**: Styling.
+
+**Thoughts:** (1) In order to make an ```a``` element work as a dud link, you can use an empty ```href=""``` attribute. 
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
