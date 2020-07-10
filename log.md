@@ -302,3 +302,11 @@ transform: translate(-50%, -50%);
 **Thoughts:** (1) Added a menu. (2) It's good to think of ```display: flex;``` as a method for organising elements in 1D space, whereas ```display:grid``` is a method of organising elements into 2D space. 
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 35: July 9, 2020
+
+**Today's Progress**: Styling.
+
+**Thoughts:** (1) I've been reading about use of ```text-transform:uppercase;```. It's useful ,and contrary to my suspicion, apparently does not *normally* impact the way in which a screen reader reads text. I say '*normally*' because screen readers can interprit all caps text as an acronym on occasion, which would obviously be fustrating. (2) I've been styling my page. 
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
