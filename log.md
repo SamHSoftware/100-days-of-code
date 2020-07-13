@@ -318,3 +318,21 @@ transform: translate(-50%, -50%);
 **Thoughts:** (1) In order to make an ```a``` element work as a dud link, you can use an empty ```href=""``` attribute. 
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 37: July 11, 2020
+
+**Today's Progress**: Styling and reading about button animations.
+
+**Thoughts:** (1) In the past, I've been animating changes in ```div``` and ```button``` elements using the ```:hover``` selector. This works well, and requires that the ```:hover```-ed class have an ```animation-name```, which can then be linked to a ```@keyframes```At-rule. I've realised that in order to animade a button fading away, as the mouse ceases to hover over it, I might then need to use the ```:not(:hover)``` selector. However, I don't know whether this will work, and thus instead, I've found that I can animate a button fade-in and a button fade-out by describing the class, adding ```transition: 500ms;```, then describing the changes which might occur when hovering over the button. An example lies below: 
+
+```
+.navigation-link { 
+  background- color: red; 
+  transition: 700ms; 
+}
+.navigation-link:hover {
+  background-color: white; 
+}
+```
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
