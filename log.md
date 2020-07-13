@@ -338,3 +338,11 @@ transform: translate(-50%, -50%);
 I suppose that the disadvantage of this approach lies in the the fact that ```@keyframes``` gives finer temporal control over the animation. 
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 38: July 12, 2020
+
+**Today's Progress**: Reading about and trying to impliment SVG images.
+
+**Thoughts:** (1) I can include an .SVG using an ```img``` element, but I don't know how to modify the SVG fill color using css. I can tell there's a way, but it doesnt seem to revolve aorund the use of ```img``` elements. Thus I'm looking for documentation / a tutorial on this, but can't seem to find one as of yet.  
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
