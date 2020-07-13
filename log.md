@@ -335,4 +335,6 @@ transform: translate(-50%, -50%);
 }
 ```
 
+I suppose that the disadvantage of this approach lies in the the fact that ```@keyframes``` gives finer temporal control over the animation. 
+
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
