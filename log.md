@@ -351,6 +351,6 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 **Today's Progress**: More reading about and trying to impliment SVG images.
 
-**Thoughts:** (1) Use of the ```svg``` tag isn't as simple as I thought it might be. There's a lot of new language which I havent come across before. I've found ways of resolving my problem with ```img``` tags, but I would prefer to be able to use this method too. The reading continues. 
+**Thoughts:** (1) Use of the ```svg``` tag isn't as simple as I thought it might be. There's a lot of new language which I havent come across before. I've found ways of resolving my problem with ```img``` tags, but I would prefer to be able to use this method too. The reading continues. (2) I've managed to include the SVG with the ```path``` tag, but I'm having trouble with the syling. The bottom was cut off, and while I solved this with ```overflow: visible;```, this wasn't exactly ideal. I've had a fiddle, and I think there are some styling conditions for ```svg``` elements which I'm not yet fully aware off. The reading continues, again! 
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
