@@ -346,3 +346,11 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 **Thoughts:** (1) I can include an .SVG using an ```img``` element, but I don't know how to modify the SVG fill color using css. I can tell there's a way, but it doesnt seem to revolve aorund the use of ```img``` elements. Thus I'm looking for documentation / a tutorial on this, but can't seem to find one as of yet. (2) I've found [this documentation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web) which gives a good introduction to the topic. I think I will read about it today, then impliment it tomorrow. 
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 39: July 13, 2020
+
+**Today's Progress**: More reading about and trying to impliment SVG images.
+
+**Thoughts:** (1) Use of the ```svg``` tag isn't as simple as I thought it might be. There's a lot of new language which I havent come across before. I've found ways of resolving my problem with ```img``` tags, but I would prefer to be able to use this method too. The reading continues. 
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
