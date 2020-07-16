@@ -370,3 +370,11 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 **Thoughts:** (1) I've been using the ```viewBox``` attribute and it's not an easy or efficient way to automate this process. I think I'm going to revert back to using an SVG within an ```img``` element. This has been good practice should I ever have to use ```svg``` elements and edit them using css. 
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 41: July 16, 2020
+
+**Today's Progress**: Added a few new buttons and made page responsive to media queries.
+
+**Thoughts:** (1) I'm wondering whether there's a way to make a page responsive to media queries, such that a block of html will simply *not appear* given a certain ```@media screen and (max-width: XYZ)``` rule. This is a little different to the modification of a css class or id given a partuclar rule. The latter I can do without problem. I can make the elements in question dissapear by simply moving off the page, but that seems to circumvent the problem somewhat. 
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
