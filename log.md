@@ -359,6 +359,14 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 **Today's Progress**: More reading about SVG images.
 
-**Thoughts:** (1) Read abotu the ```viewBox``` attribute to ```svg``` elements. It's a bit pernickety. 
+**Thoughts:** (1) Read abut the ```viewBox``` attribute to ```svg``` elements. It's a bit pernickety. 
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 40: July 15, 2020
+
+**Today's Progress**: Use of viewbox and reading about SVG usage.
+
+**Thoughts:** (1) I've been using the ```viewBox``` attribute and it's not an easy or efficient way to automate this process. I think I'm going to revert back to using an SVG within an ```img``` element. This has been good practice should I ever have to use ```svg``` elements and edit them using css. 
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
