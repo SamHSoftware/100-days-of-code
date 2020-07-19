@@ -381,6 +381,23 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 ### Day 42: July 17, 2020
 
-**Today's Progress**: Submitted page!
+**Today's Progress**: Submitted product landing page.
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 43: July 18, 2020
+
+**Today's Progress**: Started technical documentation page.
+
+**Thoughts:** (1) Came across ```position:fixed;```, very useful. 
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
+### Day 44: July 19, 2020
+
+**Today's Progress**: Started making main styles for page.
+
+**Thoughts:** (1) I'm getting much faster. Most of the main styling is done, with a navigation area and an area for the pages main content. 
+
+**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+
