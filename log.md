@@ -391,13 +391,13 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 **Thoughts:** (1) Came across ```position:fixed;```, very useful. 
 
-**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+**Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
 
 ### Day 44: July 19, 2020
 
 **Today's Progress**: Started making main styles for page.
 
-**Thoughts:** (1) I'm getting much faster. Most of the main styling is done, with a navigation area and an area for the pages main content. 
+**Thoughts:** (1) I'm getting much faster. Most of the main styling is done, with a navigation area and an area for the pages main content. (2) Came across this really clever way of [applying shadows to different sides of boxes.](http://jsfiddle.net/jDyQt/103).
 
-**Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
+**Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
 
