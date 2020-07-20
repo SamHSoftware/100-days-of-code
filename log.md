@@ -412,10 +412,18 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
     position: relative; 
 }
 .shadow:after { 
-    content: "";
-    position: absolute; 
-    box-shadow: 0px 0px 20px 5px #000;
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19),
+      0 6px 20px rgba(0, 0, 0, 0.9);
 }
 ```
+
+(2) Also, I've come across ```z-index```, which is really useful. 
 
 **Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
