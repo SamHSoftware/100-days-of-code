@@ -378,7 +378,7 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 **Thoughts:** (1) I'm wondering whether there's a way to make a page responsive to media queries, such that a block of html will simply *not appear* given a certain ```@media screen and (max-width: XYZ)``` rule. This is a little different to the modification of a css class or id given a partuclar rule. The latter I can do without problem. I can make the elements in question dissapear by simply moving off the page, but that seems to circumvent the problem somewhat. 
 
 **Link to work:** [Product landing page](https://codepen.io/SamHuguet/pen/KKVQeKL)
-
+    
 ### Day 42: July 17, 2020
 
 **Today's Progress**: Submitted product landing page.
@@ -401,3 +401,21 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 **Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
 
+### Day 45: July 20, 2020
+
+**Today's Progress**: Styling and reading. 
+
+**Thoughts:** (1) Came across an interesting issue, whereby the box-shadow of an element overlaps with adjacent elements. I would prefer the shadow to move underneath the adjacent element. To do this, one can seperate the shadow from it's parent element, by placing the box-shadow in a pseudoelement, using something like: 
+
+```
+.shadow { 
+    position: relative; 
+}
+.shadow:after { 
+    content: "";
+    position: absolute; 
+    box-shadow: 0px 0px 20px 5px #000;
+}
+```
+
+**Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
