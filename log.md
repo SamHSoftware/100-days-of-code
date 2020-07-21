@@ -427,3 +427,11 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 (2) Also, I've come across ```z-index```, which is really useful. 
 
 **Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
+
+### Day 46: July 21, 2020
+
+**Today's Progress**: Styling. 
+
+**Thoughts:** (1) I've been messing aorund with bullet points, trying to style them, and I've noticed that when replacing old bullet points for new self-styled ones, ``` list-style-position: outside;``` no longer works. I'll do a little reading around to see what I can do to fix this. 
+
+**Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
