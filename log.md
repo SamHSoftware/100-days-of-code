@@ -435,3 +435,15 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 **Thoughts:** (1) I've been messing aorund with bullet points, trying to style them, and I've noticed that when replacing old bullet points for new self-styled ones, ``` list-style-position: outside;``` no longer works. I'll do a little reading around to see what I can do to fix this. 
 
 **Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
+
+### Day 47: July 22, 2020
+
+**Today's Progress**: Adding numerous sections.
+
+**Thoughts:** (1) I'm using material from Free Code Camp to fill my technical documentation page. I will reference them at the end. (2) Learnt to use ```&lt;``` to print '<' as text, and ```&gt;``` to print '>' as text. (3) When including white space, to simulate a tab, I can insert the following: 
+
+```
+<span style="display:inline-block; width: 10px;"></span>
+```
+
+**Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
