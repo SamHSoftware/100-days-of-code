@@ -446,4 +446,6 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 <span style="display:inline-block; width: 10px;"></span>
 ```
 
+(4) I came across the ```code``` element. Very useful. 
+
 **Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
