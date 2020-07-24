@@ -449,3 +449,19 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 (4) I came across the ```code``` element. Very useful. 
 
 **Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
+
+### Day 48: July 23, 2020
+
+**Today's Progress**: Adding numerous sections.
+
+**Thoughts:** (1) Continued adding sections to my page. (2) Fixed an issue I was having with ```overflow: none```, which proved to be very useful. 
+
+**Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
+
+### Day 49: July 24, 2020
+
+**Today's Progress**: Finished and submitted page.
+
+**Thoughts:** (1) Added last few sections and a final list of references. Very happy wiht this result. 
+
+**Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
