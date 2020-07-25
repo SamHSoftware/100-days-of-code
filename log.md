@@ -460,8 +460,18 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 ### Day 49: July 24, 2020
 
-**Today's Progress**: Finished and submitted page.
+**Today's Progress**: Added final sections. 
 
-**Thoughts:** (1) Added last few sections and a final list of references. Very happy wiht this result. 
+**Thoughts:** (1) Added last few sections and a final list of references. 
 
 **Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
+
+### Day 50: July 25, 2020
+
+**Today's Progress**: Make page responsive to media queries. Submitted project.
+
+**Thoughts:** (1) Made page responsive to media queries, and came across ```overflow-y``` and ```overflow-x```, which was useful. (2) I need to read more about z-index. It's not as simple as I first anticipated. (3) Submitted work! 
+
+**Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
+
+
