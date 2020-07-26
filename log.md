@@ -480,5 +480,11 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 **Thoughts:** (1) Came across the ```meta``` tag. It provides a lot of useful info to go in ```head``` elements. I'll be using ```meta``` elements from now on. 
 
-**Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
+**Link to work:** [Technical Documentation Page](### Day 50: July 25, 2020
+
+**Today's Progress**: Make page responsive to media queries. Submitted project.
+
+**Thoughts:** (1) Made page responsive to media queries, and came across ```overflow-y``` and ```overflow-x```, which was useful. (2) I need to read more about z-index. It's not as simple as I first anticipated. (3) Submitted work! 
+
+**Link to work:** [Personal portfolio](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100))
 
