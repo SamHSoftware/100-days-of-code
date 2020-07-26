@@ -474,4 +474,11 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 **Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
 
+### Day 51: July 26, 2020
+
+**Today's Progress**: Started personal portfolio page.
+
+**Thoughts:** (1) Came across the ```meta``` tag. It provides a lot of useful info to go in ```head``` elements. I'll be using ```meta``` elements from now on. 
+
+**Link to work:** [Technical Documentation Page](https://codepen.io/SamHuguet/pen/bGEQQbg?editors=1100)
 
