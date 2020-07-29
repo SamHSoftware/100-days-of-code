@@ -518,3 +518,9 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
   
 </html>
 ```
+
+```
+html { 
+    scroll-behavior: smooth;
+    }
+```
