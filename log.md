@@ -482,7 +482,7 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 **Link to work:** [Technical Documentation Page](### Day 50: July 25, 2020
 
-### Day 52: July 26, 2020
+### Day 52: July 27, 2020
 
 **Today's Progress**: Practicing with image sizing again.
 
@@ -490,3 +490,33 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 **Link to work:** [Technical Documentation Page](### Day 50: July 25, 2020
 
+### Day 53: July 28, 2020
+
+**Today's Progress**: Made a reusualble scaffold structure. 
+
+**Thoughts:** (1) Made the following for re-use in differnt pages:
+```
+<!DOCTYPE HTML>
+
+<html> 
+ 
+  <head> <!-- meta info --> 
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="keyword1, keyword2, keyword3, etc.">
+    <meta name="description" content="A description of the page">
+    <meta name="author" content="Sam Huguet">
+    <meta http-equiv="refresh" content="30">
+  </head> 
+ 
+  <body> 
+    <nav></nav> 
+    <main></main> 
+    <footer></footer> 
+  </body> 
+  
+</html>
+```
+
+**Link to work:** [Technical Documentation Page](### Day 50: July 25, 2020
