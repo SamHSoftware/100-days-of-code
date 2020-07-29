@@ -480,7 +480,7 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 **Thoughts:** (1) Came across the ```meta``` tag. It provides a lot of useful info to go in ```head``` elements. I'll be using ```meta``` elements from now on. 
 
-**Link to work:** [Technical Documentation Page](### Day 50: July 25, 2020
+**Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
 
 ### Day 52: July 27, 2020
 
@@ -488,7 +488,7 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
 
 **Thoughts:** (1) The ```background-image``` property is good, but I want to see if I can achieve the same using a normal ```img``` tag. So far, no such luck. 
 
-**Link to work:** [Technical Documentation Page](### Day 50: July 25, 2020
+**Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
 
 ### Day 53: July 28, 2020
 
@@ -518,5 +518,3 @@ I suppose that the disadvantage of this approach lies in the the fact that ```@k
   
 </html>
 ```
-
-**Link to work:** [Technical Documentation Page](### Day 50: July 25, 2020
