@@ -537,3 +537,9 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 (2) I need to start learning JS soon. I keep coming across instances for which it would be useful. 
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
+
+**Today's Progress**: Vertical text.
+
+**Thoughts:** (1) Vertical text doesn't appear to have a one-size-fits-all solution. I'm trying to figure out what the industry gold standard is so that I can impliment something robust. 
+
+**Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
