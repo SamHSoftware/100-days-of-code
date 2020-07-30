@@ -524,3 +524,14 @@ html {
     scroll-behavior: smooth;
     }
 ```
+### Day 54: July 29, 2020
+
+**Today's Progress**: Restarted page. 
+
+**Thoughts:** (1) I didn't like the way the page was going, so I started again. (2) When adding a background to the ```body```, I can use the following: 
+
+```
+background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#0ca857)) fixed;
+```
+
+**Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
