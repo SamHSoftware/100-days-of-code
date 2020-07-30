@@ -534,4 +534,6 @@ html {
 background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#0ca857)) fixed;
 ```
 
+(2) I need to start learning JS soon. I keep coming across instances for which it would be useful. 
+
 **Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
