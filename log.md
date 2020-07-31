@@ -538,8 +538,18 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
 
+### Day 55: July 30, 2020
+
 **Today's Progress**: Vertical text.
 
 **Thoughts:** (1) Vertical text doesn't appear to have a one-size-fits-all solution. I'm trying to figure out what the industry gold standard is so that I can impliment something robust. 
+
+**Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
+
+### Day 56: July 31, 2020
+
+**Today's Progress**: Added page structure.
+
+**Thoughts:** (1) Practicing with flexbox and grids. (2) Should I be compiling code snippets which perform functions across multiple browsers? 
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
