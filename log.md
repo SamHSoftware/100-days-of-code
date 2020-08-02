@@ -564,6 +564,6 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 
 **Today's Progress**: Learning more about fractional units. 
 
-**Thoughts:** (1) Came across an issue in which I used ```grid-template-columns: repeat(2, 1fr)``` to create a couple of columns. However, when differnt content was added to each grid-item, they were of varying widths. I wanted them to be of equal dimensions. Now, I learnt some important lessons: ```1fr``` is actually shorthand for ```minmax(auto, 1fr)```. The '```auto```' was the issue, as it pushed the minimum size of the grid-items to the largest minimum size possible of the grid items occupying the grid track. Thus, the problem was solved by replacing the line of code with ```grid-template-columns: repeat(3, minmax(0, 1fr));```. 
+**Thoughts:** (1) Came across an issue in which I used ```grid-template-columns: repeat(2, 1fr)``` to create a couple of columns. However, when differnt content was added to each grid-item, they were of varying widths. I wanted them to be of equal dimensions. Now, I learnt some important lessons: ```1fr``` is actually shorthand for ```minmax(auto, 1fr)```. The '```auto```' was the issue, as it pushed the minimum size of the grid-items to the largest minimum size possible of the grid items occupying the grid track. Thus, the problem was solved by replacing the line of code with ```grid-template-columns: repeat(3, minmax(0, 1fr));```. (2) I need to read and learn about AJAX.
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
