@@ -553,3 +553,17 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 **Thoughts:** (1) Practicing with flexbox and grids. (2) Should I be compiling code snippets which perform functions across multiple browsers? 
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
+
+### Day 57: August 1, 2020
+
+**Today's Progress**: Added page structure.
+
+**Thoughts:** (1) Had issues organsing a grid. Need to do some reading. 
+
+**Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
+
+**Today's Progress**: Learning more about fractional units. 
+
+**Thoughts:** (1) Came across an issue in which I used ```grid-template-columns: repeat(2, 1fr)``` to create a couple of columns. However, when differnt content was added to each grid-item, they were of varying widths. I wanted them to be of equal dimensions. Now, I learnt some important lessons: ```1fr``` is actually shorthand for ```minmax(auto, 1fr)```. The '```auto```' was the issue, as it pushed the minimum size of the grid-items to the largest minimum size possible of the grid items occupying the grid track. Thus, the problem was solved by replacing the line of code with ```grid-template-columns: repeat(3, minmax(0, 1fr));```. 
+
+**Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
