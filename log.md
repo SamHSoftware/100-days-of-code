@@ -588,6 +588,7 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
   transform: rotate(180deg);
 }
 ```
+(2) Included a fair number of media queries. I've realised that I've been making media queries responsive to changes to the width of the page, not to it's height. I'll need to correct this. 
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
 
