@@ -592,3 +592,17 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
 
+### Day 60: August 4, 2020
+
+**Today's Progress**: Aspect ratio reading and implimentation. 
+
+**Thoughts:** (1) I needed a ```div``` to have a height of 100%, and a width equal to it's responsive height. An intersting mechanism for doing this came in the following form: 
+
+```
+.container {
+  width: 100%;
+  padding-top: 100%; /* 1:1 Aspect Ratio */
+}
+```
+
+**Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
