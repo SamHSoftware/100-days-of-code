@@ -606,3 +606,11 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 ```
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
+
+### Day 61: August 5, 2020
+
+**Today's Progress**: MAde page responsive to media queries and submitted project.
+
+**Thoughts:** (1) JavaScript is next!!
+
+**Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
