@@ -619,3 +619,8 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 
 **Today's Progress**: Learning JavaScript for the first time.
 
+### Day 62-: August 6-11, 2020
+
+**Today's Progress**: Continuing to learn JS. 
+
+**Thoughts:** (1) It's interesting learning about the different data types and how they correlate with those of other languages I've learnt. 
