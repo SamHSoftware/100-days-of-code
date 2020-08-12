@@ -619,7 +619,7 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 
 **Today's Progress**: Learning JavaScript for the first time.
 
-### Day 62-: August 6-11, 2020
+### Day 62-: August 6-12, 2020
 
 **Today's Progress**: Continuing to learn JS. 
 
