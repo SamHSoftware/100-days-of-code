@@ -615,12 +615,8 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
 
-### Day 62: August 6, 2020
-
-**Today's Progress**: Learning JavaScript for the first time.
-
 ### Day 62-: August 6-12, 2020
 
-**Today's Progress**: Continuing to learn JS. 
+**Today's Progress**: Learning JS basics. 
 
-**Thoughts:** (1) It's interesting learning about the different data types and how they correlate with those of other languages I've learnt. 
+**Thoughts:** (1) It's interesting learning about the different data types and how they correlate with those of other languages I've learnt. (2) I'm looking forward to using this in concert with HTML and CSS. (3) Is JS compatable to the same degree with every browser? It'd be useful to find out. 
