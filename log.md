@@ -615,7 +615,7 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/SamHuguet/pen/BajEdXm?editors=1100)
 
-### Day 62-: August 6-12, 2020
+### Day 62-100: August 6 - September 13, 2020
 
 **Today's Progress**: Learning JS basics. 
 
@@ -627,3 +627,7 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 (5) I've been reading about ternary operators, really fluid coding.    
 (6) Intersting differences between ```var```, ```let``` and ```const```. Also, I've been reading about the concept of hoisting. Very interesting.   
 (7) Learnt about regular expressions.   
+
+### Overall Thoughts. 
+
+This has been a great challange. The best way for me to stay motivated was to log items in discrete chunks. Thus the project work for HTML and CSS was easy to do! The JS was harder, not necessarily becuse of the content, but because I was learning smaller packages of information. As a result, my learning was more of a continuous change over time, and thus was harder to log into discrete sections. I think that next time, I'll try to improve my logging when learning. This will probably improve my determination to keep going, especially while writing my PhD thesis. 
