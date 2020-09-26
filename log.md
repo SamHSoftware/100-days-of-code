@@ -621,6 +621,7 @@ background: -webkit-gradient(linear, right top, left bottom, from(#01615c), to(#
 
 **Thoughts:** 
 (1) It's interesting learning about the different data types and how they correlate with those of other languages I've learnt. 
+
 (2) I'm looking forward to using this in concert with HTML and CSS. 
 (3) Is JS compatable to the same degree with every browser? It'd be useful to find out. 
 (4) [This](https://stackoverflow.com/questions/2802055/what-does-the-construct-x-x-y-mean/2802064) thread has blown my mind. The double pipe operator is way more complex than I initially imagined. 
