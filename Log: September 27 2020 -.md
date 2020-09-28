@@ -70,4 +70,30 @@ Becuase, we weren't **mutating** the object, we were completely **reassigning** 
 
 Ok, but what about example 1. That still looks like PBV, right? Nope, still PBR. 
 
-In example 1, JS does indeed pass a reference of the primitive value (the number 1) into the function. However, JS cannot mutate primitive numbers, it can only ever reassign them when the ```=``` is used. Therefore, JS has to reassign the value of ```a```. As with the last example, when reassignment is used, the 'reference' to the variable address cannot be kept. As a result, that refernce 
+In example 1, JS does indeed pass a reference of the primitive value (the number 1) into the function. However, JS cannot mutate primitive numbers, it can only ever reassign them when the ```=``` is used. Therefore, JS has to reassign the value of ```a```. As with the last example, when reassignment is used, the 'reference' to the variable address cannot be kept. As a result, a new, unrelated variable is made within the scope of the function ```val```.  
+
+So during reassignment, it looks like we loose the refernce, the address to the data of the variable in question.  
+
+Here is a **Final EXAMPLE:**
+```
+let a = {num:1};
+let b = a;
+
+console.log(a); \\ {num:1} 
+console.log(b}; \\ {num:1} 
+```
+Unsuprisingly, ```b``` adopts the identity of ```a```. 
+Upon mutation of ```a```... 
+```
+a.num = 2; 
+console.log(a); \\ {num:2} 
+console.log(b}; \\ {num:2} 
+```
+... ```b``` adopts the value of ```a```, as JS works via PBR, and we've just done a mutation, which allows for PBR. 
+But here, we now reassign ```a```...
+```
+a.num = {}; 
+console.log(a); \\ {} 
+console.log(b}; \\ {num:2} 
+```
+... The value of ```a``` changes, as it has been reassigned to an empty object. ```b``` stays exactly the same though! Reassignment has been used, and so it's link to ```a``` is lost. 
