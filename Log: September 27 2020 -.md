@@ -51,7 +51,7 @@ Again... it looks like PBV, right? Surely if JS if PBR, the variable ```a``` sho
 
 This is not the case. The next exampe proves that JS is PBR. 
 
-Here is **EXAMPLE 3: Object mutation **: 
+Here is **EXAMPLE 3: Object mutation**: 
 ```
 let a = {num:1}; 
 
