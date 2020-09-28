@@ -70,7 +70,7 @@ Becuase, we weren't **mutating** the object, we were completely **reassigning** 
 
 Ok, but what about example 1. That still looks like PBV, right? Nope, still PBR. 
 
-In example 1, JS does indeed pass a reference of the primitive value (the number 1) into the function. However, JS cannot mutate primitive numbers, it can only ever reassign them when the ```=``` is used. Therefore, JS has to reassign the value of ```a```. As with the last example, when reassignment is used, the 'reference' to the variable address cannot be kept. As a result, a new, unrelated variable is made within the scope of the function ```val```.  
+In example 1, JS does indeed pass a reference of the primitive value (the number 1) into the function. However, JS cannot mutate primitive numbers, it can only ever reassign them when the ```=``` is used. Therefore, JS has to reassign the value of ```a```. As with the last example, when reassignment is used, the 'reference' to the variable address cannot be kept. As a result, a new, unrelated variable (```val```)is made (reassigned) within the scope of the function.  
 
 So during reassignment, it looks like we loose the refernce, the address to the data of the variable in question.  
 
