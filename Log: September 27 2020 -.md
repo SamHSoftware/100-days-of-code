@@ -23,7 +23,7 @@ Here is **EXAMPLE 1: Primitive value reassignment**:
 let a = 1; 
 
 let change = (val) -> { 
-val = 2;
+   val = 2;
 };
 
 change(a); 
@@ -40,7 +40,7 @@ Here is **EXAMPLE 2: Object reassignment**:
 let a = {num:1}; 
 
 let change = (val) -> { 
-val = {};
+   val = {};
 };
 
 change(a); 
@@ -56,7 +56,7 @@ Here is **EXAMPLE 3: Object mutation **:
 let a = {num:1}; 
 
 let change = (val) -> { 
-val.num = 2;
+   val.num = 2;
 };
 
 change(a); 
