@@ -97,3 +97,12 @@ console.log(a); \\ {}
 console.log(b}; \\ {num:2} 
 ```
 ... The value of ```a``` changes, as it has been reassigned to an empty object. ```b``` stays exactly the same though! Reassignment has been used, and so it's link to ```a``` is lost. 
+
+# 100 Days Of Code - Log
+
+### Day 3: September 29, 2020
+
+**Today's Progress**: Basic data structures in JS.
+
+**Thoughts:** Some useful techniques. 
+
