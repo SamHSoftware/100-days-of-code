@@ -16,10 +16,14 @@
 
 **Today's Progress**: Learnt how to use Anaconda. Also started making a resositry of functions. 
 
-**Thoughts:** (1) Made a fucntion which, when called, uses Tkinter to open a file-selection dialog box. (2) I need to practice more with tkinter over time and read on it. I think it'll be pretty helpful in the future. 
+**Thoughts:**  
+(1) Made a fucntion which, when called, uses Tkinter to open a file-selection dialog box.  
+(2) I need to practice more with tkinter over time and read on it. I think it'll be pretty helpful in the future. 
 
 ### Day 4: October 2, 2020
 
 **Today's Progress**: Making image analysis functions. 
 
-**Thoughts:** (1) Made a fucntion which, when called, uses Tkinter to open a file-selection dialog box. (2) I need to practice more with tkinter over time and read on it. I think it'll be pretty helpful in the future. 
+**Thoughts:**  
+(1) Made a fucntion which, when called, uses applies a median filter to an image. 
+(2) Made a function which, when called, plots the pixel intensity distribution of the image in question. 
