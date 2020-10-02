@@ -25,5 +25,5 @@
 **Today's Progress**: Making image analysis functions. 
 
 **Thoughts:**  
-(1) Made a fucntion which, when called, uses applies a median filter to an image. 
-(2) Made a function which, when called, plots the pixel intensity distribution of the image in question. 
+(1) Made a fucntion which, when called, uses applies a median filter to an image.  
+(2) Made a function which, when called, plots the pixel intensity distribution of the image in question.  
