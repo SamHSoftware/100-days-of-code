@@ -48,4 +48,5 @@
     ]
 }
 ```
+(2) Got most of the way through making a function to segment an image using a threshold determined by the Otsu algorithm. Unfortnately, it's almost behaving like Otsu has provided a multi-level threshold... I've found a function which works though, so I'll use it to reverse engineer the correct way to threshold tomorrow. 
 
