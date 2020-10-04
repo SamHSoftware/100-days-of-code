@@ -50,3 +50,10 @@
 ```
 (2) Got most of the way through making a function to segment an image using a threshold determined by the Otsu algorithm. Unfortnately, it's almost behaving like Otsu has provided a multi-level threshold... I've found a function which works though, so I'll use it to reverse engineer the correct way to threshold tomorrow. 
 
+### Day 6: October 4, 2020
+
+**Today's Progress**: Making Otsu thresholding function
+
+**Thoughts:**  
+(1) Made Otsu thresholding function. The bug from yesterday was caused by the import of an image using matplotlib as opposed to cv2. 
+(2) Need to iron out a graphing bug within which the histogram is placed ontop of my segmentation output. SOLUTION: Include ```plt.show()``` after each `plt.imshow(image)```.
