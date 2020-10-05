@@ -56,4 +56,12 @@
 
 **Thoughts:**  
 (1) Made Otsu thresholding function. The bug from yesterday was caused by the import of an image using matplotlib as opposed to cv2. 
-(2) Need to iron out a graphing bug within which the histogram is placed ontop of my segmentation output. SOLUTION: Include ```plt.show()``` after each `plt.imshow(image)```.
+(2) Need to iron out a graphing bug within which the histogram is placed ontop of my segmentation output. SOLUTION: Include ```plt.show()``` after each ```plt.imshow(image)```.
+
+### Day 7: October 5, 2020
+
+**Today's Progress**: Learning how to make PyPA specification packages. 
+
+**Thoughts:**  
+(1) It's good that a system such as this with such good documentation exists. 
+
