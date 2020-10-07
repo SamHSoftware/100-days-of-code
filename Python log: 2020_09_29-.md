@@ -65,3 +65,30 @@
 **Thoughts:**  
 (1) It's good that a system such as this with such good documentation exists. 
 
+### Day 8: October 6, 2020
+
+**Today's Progress**: Edited functions. 
+
+**Thoughts:**  
+(1) Function now saves a segmented image, as well as giving the user the option to print a subplot with the original image, the segmented image, and the histogram of pixel vales. 
+
+### Day 9: October 7, 2020
+
+**Today's Progress**: Learning how to make requirements.txt files. 
+
+**Thoughts:**  
+(1) I've been learning about the best practices for python package distribution. PIP requirements.txt files are a vital part of this process. They can be made with the following code, run within the Anaconda Promt (Anaconda3).
+
+```
+conda activate <env>
+conda install pip
+pip freeze > requirements.txt
+```
+For example, if I wanted to make a requirements file for the 'HelloWorld' environment, I would use the following code: 
+
+```
+conda activate HelloWorld
+conda install pip
+pip freeze > requirements.txt
+```
+
