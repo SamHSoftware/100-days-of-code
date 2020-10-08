@@ -97,16 +97,16 @@ pip freeze > requirements.txt
 **Today's Progress**: LEarning how to develop unit tests for my functions. 
 
 **Thoughts:**  
-#(1) Uses of unit testing:
+# (1) Uses of unit testing:
 - Tests reduce bugs following the addition of new features and in existing features. 
 - Unit tests use the functions in question, and thus, good unit tests are good documentation!
 - Tests reduce cost of changing code. 
 - They make for faster debugging and development.
 - Unit testing allows for better disign of our project in the first place.  
 
-#What resources are available for unit testing in Python? 
-(1) ```unittest``` - In the Python standard library. 
-(2) ```nose``` - Not instandard library, but is more simple than ```unittest```.
-(3) ```pytest``` - Not in standard library. 
+# What resources are available for unit testing in Python? 
+(1) ```unittest``` - In the Python standard library.  
+(2) ```nose``` - Not instandard library, but is more simple than ```unittest```.  
+(3) ```pytest``` - Not in standard library.  
 
 
