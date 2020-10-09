@@ -91,6 +91,11 @@ conda activate HelloWorld
 conda install pip
 pip freeze > requirements.txt
 ```
+If, however, I want to make a conda specific requirements file, I can use the following: 
+```
+conda activate <env> 
+conda list -e > requirements.txt
+```
 
 ### Day 10: October 8, 2020
 
