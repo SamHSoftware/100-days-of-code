@@ -116,3 +116,8 @@ conda list -e > requirements.txt
 
 #### General notes: 
 (1) Add ```test_``` as a prefix to your unit testing file. 
+
+### Day 11: October 9, 2020
+
+**Today's Progress**: Made test files and completed my package for Github. 
+
