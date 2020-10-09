@@ -97,7 +97,7 @@ pip freeze > requirements.txt
 **Today's Progress**: LEarning how to develop unit tests for my functions. 
 
 **Thoughts:**  
-#### (1) Uses of unit testing:
+#### Uses of unit testing:
 - Tests reduce bugs following the addition of new features and in existing features. 
 - Unit tests use the functions in question, and thus, good unit tests are good documentation!
 - Tests reduce cost of changing code. 
@@ -109,4 +109,5 @@ pip freeze > requirements.txt
 (2) ```nose``` - Not instandard library, but is more simple than ```unittest```.  
 (3) ```pytest``` - Not in standard library.  
 
-
+#### General notes: 
+(1) Add ```test_``` as a prefix to your unit testing file. 
