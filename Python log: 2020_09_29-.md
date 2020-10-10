@@ -121,3 +121,6 @@ conda list -e > requirements.txt
 
 **Today's Progress**: Made test files and completed my package for Github. 
 
+### Day 12: October 10, 2020
+
+**Today's Progress**: Learning about using Git to version control locally and on GitHub. 
