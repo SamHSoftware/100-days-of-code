@@ -124,3 +124,10 @@ conda list -e > requirements.txt
 ### Day 12: October 10, 2020
 
 **Today's Progress**: Learning about using Git to version control locally and on GitHub. 
+
+### Day 13: October 11, 2020
+
+**Today's Progress**: Committed and pushed work to GitHub using Git. 
+
+**Thoughts:**  
+(1) Good progress, but I need to learn the nuances of using Git. I'll have a read through the documentation tomorrow. (2) Need to learn how to make a ```.gitignore``` file and understand how they work. 
