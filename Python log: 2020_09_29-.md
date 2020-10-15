@@ -154,7 +154,7 @@ conda list -e > requirements.txt
 **Today's Progress**: Continued work on package. 
 
 **Thoughts:**  
-(1) I think I'm going to create another package soon which focses on edge detection. There's a lot out there, and I'd quite like to practice. 
-(2) Finished functions.
-(3) Need to make testing module next.
+(1) I think I'm going to create another package soon which focses on edge detection. There's a lot out there, and I'd quite like to practice.  
+(2) Finished functions.  
+(3) Need to make testing module next.  
 
