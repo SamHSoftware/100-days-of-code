@@ -131,3 +131,26 @@ conda list -e > requirements.txt
 
 **Thoughts:**  
 (1) Good progress, but I need to learn the nuances of using Git. I'll have a read through the documentation tomorrow. (2) Need to learn how to make a ```.gitignore``` file and understand how they work. 
+
+### Day 14: October 12, 2020
+
+**Today's Progress**: Learning how to use Git Bash.
+
+**Thoughts:**  
+(1) Had a problem with my gitignore. Turns out that after creating it as a text file, it needs to be renamed from .gitignore.txt to .gitignore, otherwise it won't work. 
+
+### Day 15: October 13, 2020
+
+**Today's Progress**: Learning how to use Git Bash.
+
+### Day 16: October 14, 2020
+
+**Today's Progress**: Started creating a package to compare image filters.
+
+### Day 17: October 15, 2020
+
+**Today's Progress**: Continued work on package. 
+
+**Thoughts:**  
+(1) I think I'm going to create another package soon which focses on edge detection. There's a lot out there, and I'd quite like to practice. 
+
