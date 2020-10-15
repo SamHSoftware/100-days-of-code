@@ -143,6 +143,8 @@ conda list -e > requirements.txt
 
 **Today's Progress**: Learning how to use Git Bash.
 
+**Today's Progress**: I think I've reached a point where I can quickly and safely version control my work with Git and GitHub. Time well spent I think. 
+
 ### Day 16: October 14, 2020
 
 **Today's Progress**: Started creating a package to compare image filters.
