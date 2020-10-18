@@ -149,6 +149,8 @@ conda list -e > requirements.txt
 
 **Today's Progress**: Started creating a package to compare image filters.
 
+[Link to work](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
+
 ### Day 17: October 15, 2020
 
 **Today's Progress**: Continued work on package. 
@@ -158,3 +160,25 @@ conda list -e > requirements.txt
 (2) Finished functions.  
 (3) Need to make testing module next.  
 
+[Link to work](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
+
+### Day 18: October 16, 2020
+
+**Today's Progress**: Finished the module file for my pckage to compare filters. 
+
+[Link to work](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
+
+### Day 19: October 17, 2020
+
+**Today's Progress**: Wrote a unit testing file for my package. 
+
+**Thoughts:**  
+(1) Should the unit testing functions be called in a RUNME.py file? I'm not sure what the professional standard is. I will find out and make edits if necessary. 
+
+[Link to work](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
+
+### Day 20: October 18, 2020
+
+**Today's Progress**: Wrote README.md file.
+
+[Link to work](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
