@@ -58,6 +58,8 @@
 (1) Made Otsu thresholding function. The bug from yesterday was caused by the import of an image using matplotlib as opposed to cv2. 
 (2) Need to iron out a graphing bug within which the histogram is placed ontop of my segmentation output. SOLUTION: Include ```plt.show()``` after each ```plt.imshow(image)```.
 
+[Link to otsu-segmentation package](https://github.com/SamHSoftware/Image-Analysis/tree/main/otsu-segmentation)
+
 ### Day 7: October 5, 2020
 
 **Today's Progress**: Learning how to make PyPA specification packages. 
@@ -71,6 +73,8 @@
 
 **Thoughts:**  
 (1) Function now saves a segmented image, as well as giving the user the option to print a subplot with the original image, the segmented image, and the histogram of pixel vales. 
+
+[Link to otsu-segmentation package](https://github.com/SamHSoftware/Image-Analysis/tree/main/otsu-segmentation)
 
 ### Day 9: October 7, 2020
 
@@ -99,7 +103,7 @@ conda list -e > requirements.txt
 
 ### Day 10: October 8, 2020
 
-**Today's Progress**: LEarning how to develop unit tests for my functions. 
+**Today's Progress**: Learning how to develop unit tests for my functions. 
 
 **Thoughts:**  
 #### Uses of unit testing:
@@ -120,6 +124,8 @@ conda list -e > requirements.txt
 ### Day 11: October 9, 2020
 
 **Today's Progress**: Made test files and completed my package for Github. 
+
+[Link to otsu-segmentation package](https://github.com/SamHSoftware/Image-Analysis/tree/main/otsu-segmentation)
 
 ### Day 12: October 10, 2020
 
@@ -149,7 +155,7 @@ conda list -e > requirements.txt
 
 **Today's Progress**: Started creating a package to compare image filters.
 
-[Link to work](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
+[Link to comparing-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
 
 ### Day 17: October 15, 2020
 
@@ -160,13 +166,13 @@ conda list -e > requirements.txt
 (2) Finished functions.  
 (3) Need to make testing module next.  
 
-[Link to work](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
+[Link to comparing-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
 
 ### Day 18: October 16, 2020
 
 **Today's Progress**: Finished the module file for my pckage to compare filters. 
 
-[Link to work](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
+[Link to comparing-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
 
 ### Day 19: October 17, 2020
 
@@ -175,10 +181,10 @@ conda list -e > requirements.txt
 **Thoughts:**  
 (1) Should the unit testing functions be called in a RUNME.py file? I'm not sure what the professional standard is. I will find out and make edits if necessary. 
 
-[Link to work](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
+[Link to comparing-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
 
 ### Day 20: October 18, 2020
 
 **Today's Progress**: Wrote README.md file.
 
-[Link to work](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
+[Link to comparing-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
