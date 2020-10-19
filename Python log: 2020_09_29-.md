@@ -188,3 +188,9 @@ conda list -e > requirements.txt
 **Today's Progress**: Wrote README.md file.
 
 [Link to comparing-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-filters)
+
+### Day 21: October 19, 2020
+
+**Today's Progress**: Strted writing module for edge detection. 
+
+[Link to comparing-edge-detection-filters package]()
