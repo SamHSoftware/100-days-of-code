@@ -191,6 +191,34 @@ conda list -e > requirements.txt
 
 ### Day 21: October 19, 2020
 
-**Today's Progress**: Strted writing module for edge detection. 
+**Today's Progress**: Started writing module for edge detection. 
 
-[Link to comparing-edge-detection-filters package]()
+[Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
+
+### Day 22: October 20, 2020
+
+**Today's Progress**: Added filters for edge detection module. 
+
+[Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
+
+### Day 22: October 21, 2020
+
+**Today's Progress**: Continued adding filters for edge detection module.  
+
+**Thoughts:**  
+(1) It would be fun and probably quite educational to make a module which takes the output of canny edge detection and colours the edges according to their gradient. 
+
+[Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
+
+### Day 23: October 20, 2020
+
+**Today's Progress**: Finished module. Added plotting capabilities.
+
+**Thoughts:**  
+(1) Came across a situation in which I needed to remove my last commit before pushing it up. I used the following code: 
+```
+git reset --soft HEAD~1
+```
+
+[Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
+
