@@ -210,7 +210,7 @@ conda list -e > requirements.txt
 
 [Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
 
-### Day 23: October 20, 2020
+### Day 23: October 22, 2020
 
 **Today's Progress**: Finished module. Added plotting capabilities.
 
@@ -221,4 +221,31 @@ git reset --soft HEAD~1
 ```
 
 [Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
+
+### Day 24: October 23, 2020
+
+**Today's Progress**: Creating unit testing .py file for edge detection package. 
+
+[Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
+
+### Day 25: October 24, 2020
+
+**Today's Progress**: Worked on unit testing .py file for edge detection package. 
+
+[Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
+
+### Day 26: October 25, 2020
+
+**Today's Progress**: Worked on unit testing .py file for edge detection package. 
+
+[Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
+
+### Day 27: October 26, 2020
+
+**Today's Progress**: Worked on unit testing .py file for edge detection package. 
+
+[Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
+
+
+
 
