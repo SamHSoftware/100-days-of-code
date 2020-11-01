@@ -246,6 +246,45 @@ git reset --soft HEAD~1
 
 [Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
 
+### Day 28: October 27, 2020
 
+**Today's Progress**: Submitted edge detection package. 
 
+**Thoughts:**  
+(1) I need to understand more of the mathematical basics behind machine learning. Time to educate myself! 
 
+[Link to comparing-edge-detection-filters package](https://github.com/SamHSoftware/Image-Analysis/tree/main/comparing-edge-detection-filters)
+
+### Day 29: October 28, 2020
+
+**Today's Progress**: Learning mathematical basis behind machine learning.
+
+**Thoughts:**  
+(1) This is actually really useful, not just for ML, but also for my mathematical abilities as a whole. I haven't practiced calculus in ages! 
+
+### Day 30: October 29, 2020
+
+**Today's Progress**: Learning mathematical basis behind machine learning.
+
+**Thoughts:**  
+(1) Stuck on calculus. 
+
+### Day 31: October 30, 2020
+
+**Today's Progress**: Learning mathematical basis behind machine learning.
+
+**Thoughts:**  
+(1) OK, I've spent some time learning the calculus basics. I now understand the chain rule and the power rule, and I think that's going to get me a long way. 
+
+### Day 32: October 31, 2020
+
+**Today's Progress**: Learning mathematical basis behind machine learning.
+
+**Thoughts:**  
+(1) I think I now understand linear regression and cost functions, seperately and when combined to calculate coefficients of linear equations. 
+
+### Day 33: November 1, 2020
+
+**Today's Progress**: Worked on new machine learning package, to which I am committing a linear regression and gradient descent module. 
+
+[Link to linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/linear-regression)
