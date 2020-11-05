@@ -288,3 +288,29 @@ git reset --soft HEAD~1
 **Today's Progress**: Worked on new machine learning package, to which I am committing a linear regression and gradient descent module. 
 
 [Link to linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/linear-regression)
+
+### Day 34: November 2, 2020
+
+**Today's Progress**: Continuted work on linear-regression package. 
+
+[Link to linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/linear-regression)
+
+### Day 35: November 3, 2020
+
+**Today's Progress**: Started working on unit testing. 
+
+[Link to linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/linear-regression)
+
+### Day 36: November 4, 2020
+
+**Today's Progress**: Finished unit testing nad wrote README.md document for package. 
+
+**Thoughts:**  
+(1) I learnt how to use unit testing modules from within their own directory, as opposed to that which houses the RUNME.py files. Very useful.
+
+[Link to linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/linear-regression)
+
+### Day 37: November 5, 2020
+
+**Today's Progress**: Learning about linear algebra prior to making a new ML package. 
+
