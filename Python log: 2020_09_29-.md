@@ -314,3 +314,9 @@ git reset --soft HEAD~1
 
 **Today's Progress**: Learning about linear algebra prior to making a new ML package. 
 
+### Day 38: November 6, 2020
+
+**Today's Progress**: Learning more linear algebra. Started putting together multivariate linear regression package. 
+
+**Thoughts:**  
+(1) I learnt about identity matrices, alongside matric inversion and transposition. 
