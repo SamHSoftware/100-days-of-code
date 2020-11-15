@@ -320,3 +320,76 @@ git reset --soft HEAD~1
 
 **Thoughts:**  
 (1) I learnt about identity matrices, alongside matric inversion and transposition. 
+
+### Day 39: November 7, 2020
+
+**Today's Progress**: Started work on multivariate linear regression package. 
+
+**Thoughts:**  
+(1) Included some basis functions for file selection and data import. 
+
+[Link to multivaritate-linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/multivariate-linear-regression)
+
+### Day 40: November 8, 2020
+
+**Today's Progress**: Starting to look at model construction with PyTorch. 
+
+[Link to multivaritate-linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/multivariate-linear-regression)
+
+### Day 41: November 9 2020
+
+**Today's Progress**: Continued work on multivariate linear regression package. 
+
+**Thoughts:**  
+(1) I think this package is going to take me a while. Each individual step isnt too tricky, but there's a fair bit to pick up. 
+
+[Link to multivaritate-linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/multivariate-linear-regression)
+
+### Day 42: November 10, 2020
+
+**Today's Progress**: Continued work on multivariate linear regression package. 
+
+**Thoughts:**  
+(1) Splitting data into testing and training sets. 
+(2) I needed to preprocess my data and include a normalisation step. Model functions very well now. 
+
+[Link to multivaritate-linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/multivariate-linear-regression)
+
+### Day 43: November 11, 2020
+
+**Today's Progress**: Continued work on multivariate linear regression package. 
+
+**Thoughts:**  
+(1) Producting graphical methods of testing model performance. 
+
+[Link to multivaritate-linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/multivariate-linear-regression)
+
+### Day 44: November 12, 2020
+
+**Today's Progress**: Continued work on multivariate linear regression package. 
+
+**Thoughts:**  
+(1) Extracting the biases and weigths from model, as well as reading about how to assess model performance from a quantitative point of view. 
+
+[Link to multivaritate-linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/multivariate-linear-regression)
+
+### Day 45: November 13, 2020
+
+**Today's Progress**: Worked on unit testing for multivariate linear regression package. 
+
+[Link to multivaritate-linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/multivariate-linear-regression)
+
+### Day 46: November 14, 2020
+
+**Today's Progress**: Wrote the README.md document and finished off package. 
+
+[Link to multivaritate-linear-regression package](https://github.com/SamHSoftware/Machine-Learning/tree/main/multivariate-linear-regression)
+
+### Day 47: November 15, 2020
+
+**Today's Progress**: Started working on a logistic classification package. 
+
+**Thoughts:**  
+(1) I'll need to do a bit of reading before relaly diving into this. 
+
+[Link to logistic-classification package](https://github.com/SamHSoftware/Machine-Learning/tree/main/logistic-classification)
