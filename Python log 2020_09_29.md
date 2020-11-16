@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-test
+
 ### Day 1: September 29, 2020
 
 **Today's Progress**: Learning Python basics. 
@@ -393,3 +393,8 @@ git reset --soft HEAD~1
 (1) I'll need to do a bit of reading before relaly diving into this. 
 
 [Link to logistic-classification package](https://github.com/SamHSoftware/Machine-Learning/tree/main/logistic-classification)
+
+### Day 48: November 16, 2020
+
+**Today's Progress**: Learning about logistic cost functions. 
+
