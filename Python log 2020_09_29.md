@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-
+test
 ### Day 1: September 29, 2020
 
 **Today's Progress**: Learning Python basics. 
