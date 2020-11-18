@@ -398,3 +398,14 @@ git reset --soft HEAD~1
 
 **Today's Progress**: Learning about logistic cost functions. 
 
+### Day 49: November 17, 2020
+
+**Today's Progress**: Continued working on a logistic classification package. 
+
+[Link to logistic-classification package](https://github.com/SamHSoftware/Machine-Learning/tree/main/logistic-classification)
+
+### Day 50: November 18, 2020
+
+**Today's Progress**: Finished pakcage module with most of the functions. 
+
+[Link to logistic-classification package](https://github.com/SamHSoftware/Machine-Learning/tree/main/logistic-classification)
