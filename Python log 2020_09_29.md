@@ -463,6 +463,6 @@ git reset --soft HEAD~1
 
 ### Day 57: November 26, 2020
 
-**Today's Progress**: Back to learning baout neural networks.
+**Today's Progress**: Back to learning about neural networks.
 
 
