@@ -409,3 +409,60 @@ git reset --soft HEAD~1
 **Today's Progress**: Finished pakcage module with most of the functions. 
 
 [Link to logistic-classification package](https://github.com/SamHSoftware/Machine-Learning/tree/main/logistic-classification)
+
+### Day 51: November 19, 2020
+
+**Today's Progress**: Began learning about neural networks so that I can begin coding one in Pytorch/Tensorflow. 
+
+### Day 52: November 20, 2020
+
+**Today's Progress**: Continued learning about neural networks and their implimentations. 
+
+**Thoughts:**  
+(1) I'm looking at some model representations, both from a conceptual point of view and from the point of view of linear algebra. Very useful, I think it'll take me a couple of days to build a mental picture of a network's functionality. 
+
+### Day 53: November 21, 2020
+
+**Today's Progress**: Continued learning about neural networks and their implimentations. 
+
+**Thoughts:**  
+(1) I''ve come across the concept of boolean functions. I've always understood concepts such as 'Or' and 'x And Not y', but I've never seen them represented in the form of 4 digit binary sequences. Curious to see where this leads. 
+
+### Day 53: November 22, 2020
+
+**Today's Progress**: Taking a pause from machine learning to code a package which converts simulation data to a usuable format. 
+
+**Thoughts:**  
+(1) Coding main module functions. 
+
+[Link to simulations-to-xlsx package](https://github.com/SamHSoftware/PhD/tree/main/simulations-to-xlsx
+
+### Day 54: November 23, 2020
+
+**Today's Progress**: Leanring how to iteratively grow pandas dataframes. 
+
+**Thoughts:**  
+(1) This was useful. A slightly different approach to MATLAB's, i.e. build lists and append them to the df (python) rather that directly filling cells of a cell array (MATLAB). 
+
+[Link to simulations-to-xlsx package](https://github.com/SamHSoftware/PhD/tree/main/simulations-to-xlsx)
+
+### Day 55: November 24, 2020
+
+**Today's Progress**: Debugging.
+
+**Thoughts:**  
+(1) I think I just came across floating point errors. I should read more about this to avoid issues in the future.  
+
+[Link to simulations-to-xlsx package](https://github.com/SamHSoftware/PhD/tree/main/simulations-to-xlsx)
+
+### Day 56: November 25, 2020
+
+**Today's Progress**: Wrote unit testing module and finished package.
+
+[Link to simulations-to-xlsx package](https://github.com/SamHSoftware/PhD/tree/main/simulations-to-xlsx)
+
+### Day 57: November 26, 2020
+
+**Today's Progress**: Back to learning baout neural networks.
+
+
