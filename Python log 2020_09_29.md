@@ -465,4 +465,8 @@ git reset --soft HEAD~1
 
 **Today's Progress**: Back to learning about neural networks.
 
+### Day 58: November 27, 2020
+
+**Today's Progress**: Leanring about the use of neural networks for multiclass classification. 
+
 
