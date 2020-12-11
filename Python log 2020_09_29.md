@@ -547,5 +547,31 @@ git reset --soft HEAD~1
 **Thoughts:**  
 (1) In particular, I'm looking at LSTMs. I think I'm jumping ahead a little in my learning, but I need to use one for time series dependent classification, and an LSTM would appear to be the way forward. 
 
+### Day 71: December 9, 2020
 
+**Today's Progress**: Began working on LSTM package. 
+
+**Thoughts:**  
+(1) Gradual start. I've implimented a funcion to allow for folder selection. 
+
+[Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
+
+### Day 72: December 10, 2020
+
+**Today's Progress**: Continued working on LSTM package. 
+
+**Thoughts:**  
+(1) Making funciton to process .xlsx data such that it can be used as training data for the LSTM. 
+
+[Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
+
+### Day 73: December 11, 2020
+
+**Today's Progress**: Continued working on LSTM package. 
+
+**Thoughts:**  
+(1) As above, still working on data processing function. 
+(2) My understanding of list comprehension has come in handy during file filtering processes. 
+
+[Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
 
