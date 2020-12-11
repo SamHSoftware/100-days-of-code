@@ -469,4 +469,83 @@ git reset --soft HEAD~1
 
 **Today's Progress**: Leanring about the use of neural networks for multiclass classification. 
 
+### Day 59: November 28, 2020
+
+**Today's Progress**: Putting neural netowrk learning into practice. Started designing network to classify breast tissue as benign or malignant. 
+
+**Thoughts:**  
+(1) Made initial commits and began designing network. It's going much faster with the practice I've had, and the architecture isn't too different from the logistic regression model that I made.  
+
+[Link to neural-netowrk-breast-cancer package](https://github.com/SamHSoftware/Machine-Learning/tree/main/neural-network-breast-cancer)
+
+### Day 60: November 29, 2020
+
+**Today's Progress**: Continued work on neural network. 
+
+[Link to neural-netowrk-breast-cancer package](https://github.com/SamHSoftware/Machine-Learning/tree/main/neural-network-breast-cancer)
+
+### Day 61: November 30, 2020
+
+**Today's Progress**: Adding graphical outputs to network function.
+
+**Thoughts:**  
+(1) Really useful. I've been reading about how to best represent model accuracy etc., and it looks like a confusion matrix is a good way to go. I've implimented one by adapting a preexisting function that I found. 
+
+[Link to neural-netowrk-breast-cancer package](https://github.com/SamHSoftware/Machine-Learning/tree/main/neural-network-breast-cancer)
+
+### Day 62: December 1, 2020
+
+**Today's Progress**: Adding graphical outputs to network function.
+
+**Thoughts:**  
+(1) I've added an additional output in the form of a graph, displaying the validation loss and training loss per epoch. 
+
+[Link to neural-netowrk-breast-cancer package](https://github.com/SamHSoftware/Machine-Learning/tree/main/neural-network-breast-cancer)
+
+### Day 63: December 2, 2020
+
+**Today's Progress**: Adding graphical outputs to network function.
+
+**Thoughts:**  
+(1) I've added an additional graph of validation and training accuracy, which I haven't done before, but has definitely been useful. 
+
+[Link to neural-netowrk-breast-cancer package](https://github.com/SamHSoftware/Machine-Learning/tree/main/neural-network-breast-cancer)
+
+### Day 64: December 3, 2020
+
+**Today's Progress**: Started work on unit testing file. 
+
+[Link to neural-netowrk-breast-cancer package](https://github.com/SamHSoftware/Machine-Learning/tree/main/neural-network-breast-cancer)
+
+### Day 65: December 4, 2020
+
+**Today's Progress**: Continued work on unit testing. 
+
+**Thoughts:**  
+(1) I've been implimenting a way of unit testing according to the final value of accuracy, and a fixed training set, but even so, I don't think this is ideal. Random weight initialisation means that there's always a bit of variation in the model outcome, which makes things hard to rigorously unit test. The method I'm using seems to be broadly working, but I think I should read more about this. 
+
+[Link to neural-netowrk-breast-cancer package](https://github.com/SamHSoftware/Machine-Learning/tree/main/neural-network-breast-cancer)
+
+### Day 66: December 5, 2020
+
+**Today's Progress**: Finished the neural netowrk. 
+
+[Link to neural-netowrk-breast-cancer package](https://github.com/SamHSoftware/Machine-Learning/tree/main/neural-network-breast-cancer)
+
+### Day 67: December 6, 2020
+
+**Today's Progress**: Learning about list comprehnesion in Python. Really useful for efficient coding. 
+
+### Day 69: December 7, 2020
+
+**Today's Progress**: Learning about machine learning techniques. 
+
+### Day 70: December 8, 2020
+
+**Today's Progress**:  Continued learning about machine learning techniques. 
+
+**Thoughts:**  
+(1) In particular, I'm looking at LSTMs. I think I'm jumping ahead a little in my learning, but I need to use one for time series dependent classification, and an LSTM would appear to be the way forward. 
+
+
 
