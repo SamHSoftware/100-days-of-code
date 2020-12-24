@@ -576,3 +576,6 @@ git reset --soft HEAD~1
 [Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
 
 pandas series vs dataframe. 
+LSTM 
+LSTM stateful vs stateless 
+Softmax
