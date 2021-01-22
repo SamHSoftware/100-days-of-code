@@ -575,7 +575,94 @@ git reset --soft HEAD~1
 
 [Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
 
-pandas series vs dataframe. 
-LSTM 
-LSTM stateful vs stateless 
-Softmax
+### Day 74: December 12, 2020
+
+**Today's Progress**: Continued working on LSTM package. 
+
+**Thoughts:**  
+(1) I'm developing the LSTM model itself at the moment. There's a pretty big learning curve here, but it's very interesting. 
+
+[Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
+
+### Day 75: December 13, 2020
+
+**Today's Progress**: Continued working on LSTM package. 
+
+**Thoughts:**  
+(1) Finishing off the LSTM model itself. I imagine I'll probably need to modify it as I use it. 
+
+[Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
+
+### Day 76: December 14, 2020
+
+**Today's Progress**: Adding code to train the LSTM. 
+
+[Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
+
+### Day 77: December 15, 2020
+
+**Today's Progress**: Subdivided my training epoch into training and testing portions. 
+
+**Thoughts:**  
+(1) PyTorch requires that the model's automatic computation of gradients be turned off (as well as dropout) when testing the model. I wonder if the same process is used in Tensorflow. 
+
+[Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
+
+### Day 78: December 16, 2020
+
+**Today's Progress**: Added randomised batch training to increase training efficiency. 
+
+**Thoughts:**  
+(1) I need to start reading some papers to see how bacth size affects the differnt aspects of training. For instance, does bacth size influence a models ability to escape a local optimum? Based on what I've read, the larger the batch size, the greater the model's ability to escape local optima. I need to verify this. 
+
+[Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
+
+### Day 79: December 17, 2020
+
+**Today's Progress**: Fixed some bugs which arose in my confusion matrix code. 
+
+**Thoughts:**  
+(1) PyTorch requires that the model's automatic computation of gradients be turned off (as well as dropout) when testing the model. I wonder if the same process is used in Tensorflow. 
+
+[Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
+
+### Day 80: December 18, 2020
+
+**Today's Progress**: Took a day off from my LSTM to update my old neural network and include training and testing phases to each epoch. 
+
+### Day 81: December 19, 2020
+
+**Today's Progress**: Reading about LSTM stateful and stateless models. Not sure why one would want to have a stateless LSTM. Increased efficiency when not needed perhaps? 
+
+### Day 82: December 20, 2020
+
+**Today's Progress**: Taking some time from the LSTM to write some other code. Started writing a filtering function to filter datasets I might need to use in the future. 
+
+[Link to filter-RF-grades package](https://github.com/SamHSoftware/PhD/tree/main/filter_RF_grades)
+
+### Day 83: December 21, 2020
+
+**Today's Progress**: Wrote the unit testing for the filtering functions. 
+
+[Link to filter-RF-grades package](https://github.com/SamHSoftware/PhD/tree/main/filter_RF_grades)
+
+### Day 84: December 22, 2020
+
+**Today's Progress**: Wrote some code to establish the training and validation loss for different batch sizes. I'm limited by processing power though. 
+
+[Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
+
+### Day 85: December 23, 2020
+
+**Today's Progress**: Tried a whole load of different parameters to train the LSTM e.g. the eps value of adam, and I tried Adamax and asmgrad too. Still no luck. I think I need more processing power so that I can lower the learning rate and still train effectively. 
+
+[Link to LSTM-wave-classifier package](https://github.com/SamHSoftware/PhD/tree/main/LSTM-wave-classifer)
+
+### Day 86: December 24, 2020
+
+**Today's Progress**: Looking into using my GPU to increase processing power. I seem to be running into CUDA issues however. 
+
+### Day 87: December 25, 2020
+
+**Today's Progress**: Re-visited the filtering function, and learnt about pandas series vs dataframes, which was really useful, and something I'm amazed I missed up until now. 
+
